@@ -15,6 +15,18 @@ This project supports the following workflow:
 5. Run real-time object detection on a local PC using a webcam.
 6. Visualize detection results using OpenCV.
 
+## Environment
+- Training Environment
+- The training notebook is designed to run in Google Colab.
+- Recommended environment:
+  Platform: Google Colab
+  GPU: NVIDIA T4, L4, A100, or equivalent
+  Python: 3.10 or later
+  CUDA: Provided by Google Colab runtime
+  Framework: Ultralytics YOLO
+  Dataset Platform: Roboflow
+
+
 ## Repository Structure
 
 ```text
